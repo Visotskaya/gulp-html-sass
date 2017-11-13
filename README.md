@@ -1,5 +1,5 @@
 # gulp-html-sass
-gulp for html parts and sass 
+gulp for html parts and sass (with base styles)
 
 npm install (in the first time) - write in Terminal
 
